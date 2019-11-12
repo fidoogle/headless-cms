@@ -14,10 +14,6 @@
       <p>
         <img src="https://gssadev.wpengine.com/wp-content/uploads/2019/02/sawslogo.png"/>
       </p>
-
-      <button @click="showUpdater">
-        Change Endpoint
-      </button>
     </div>
   </nav>
 </template>
