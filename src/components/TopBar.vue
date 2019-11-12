@@ -6,13 +6,13 @@
         :to="{
           name: 'home',
         }">
-        WP Vue
+        <img src="https://gssadev.wpengine.com/wp-content/uploads/2019/02/logo2.png"/>
       </router-link>
     </h1>
 
     <div>
       <p>
-        Currently presenting content from <a :href="sourceURL">{{ splitEndpoint[2] }}</a>.
+        <img src="https://gssadev.wpengine.com/wp-content/uploads/2019/02/sawslogo.png"/>
       </p>
 
       <button @click="showUpdater">
