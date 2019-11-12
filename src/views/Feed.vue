@@ -3,8 +3,11 @@
 
     <section>
       <p>
-        WP Vue is a simple template built with Vue JS that displays posts from a WordPress REST API endpoint.
-        Take what you see here &amp; rip it apart to suit your needs. To improve it for everyone else, <a href="https://www.github.com/alexmacarthur/wp-vue">contribute on Github</a>.
+        This is a Vue-based template that uses the gssadev.wpengine.com as a backend. It can be extended to be a Wordpress template. The same thing can be accomplished with a React-based template.
+        <br/>
+        One big advantage: This gives fine-grain control of the layout to developers, while the BA's can still use the WP Admin to manage the content.
+        <br/>
+        See the code at <a href="https://github.com/fidoogle/headless-cms">https://github.com/fidoogle/headless-cms</a>
       </p>
     </section>
 
